@@ -16,7 +16,7 @@ make
 
 Command example :
 ```
-./simple_cipher -k 4894be88e41188c40abc703fb3ba1195 -p "Some text" -v 023446789012145
+./simple_cipher -k 4894be88e41188c40abc703fb3ba1195 -v 023446789012145 -p "Some text" 
 ```
 
 Output:
